@@ -6,3 +6,7 @@ public class Harjoitus1 {
 		String otsikko = "Hei olen Tulostin-ohjelma";
 		
 		System.out.println(otsikko);
+
+		String tekija = "Sanna";
+		
+		System.out.println("Ohjelman tekijä: " + tekija);
