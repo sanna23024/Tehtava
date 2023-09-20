@@ -1,0 +1,8 @@
+
+public class Harjoitus1 {
+
+	public static void main(String[] args) {
+	
+		String otsikko = "Hei olen Tulostin-ohjelma";
+		
+		System.out.println(otsikko);
